@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "A Novel Multi-Feature Fusion Method for Classification of Gastrointestinal Diseases Using Endoscopy Images"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: ''
+date: 2023-12-01
+venue: 'Diagnostics'
+paperurl: 'https://doi.org/10.3390/diagnostics12102316'
+citation: 'Ramamurthy, K., George, T. T., Shah, Y., & Sasidhar, P. (2022). A novel multi-feature fusion method for classification of gastrointestinal diseases using endoscopy images. _Diagnostics_, _12_(10), 2316.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://doi.org/10.3390/diagnostics12102316)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Ramamurthy, K., George, T. T., Shah, Y., & Sasidhar, P. (2022). A novel multi-feature fusion method for classification of gastrointestinal diseases using endoscopy images. _Diagnostics_, _12_(10), 2316.
