@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 3"
+title: "Blockchain-Based Cybersecurity in Internet of Medical Things (IoMT)-Based
+Assistive Systems"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: ''
+date: 2023-11-01
+venue: 'AI-Based Digital Health Communication for Securing Assistive Systems'
+paperurl: 'https://doi.org/10.4018/978-1-6684-8938-3.ch002'
+citation: 'Tyagi, A. K., George, T. T., & Soni, G. (2023). Blockchain-Based Cybersecurity in Internet of Medical Things (IoMT)-Based Assistive Systems. In _AI-Based Digital Health Communication for Securing Assistive Systems_ (pp. 22-53). IGI Global.'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[View paper here](https://doi.org/10.4018/978-1-6684-8938-3.ch002)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Tyagi, A. K., George, T. T., & Soni, G. (2023). Blockchain-Based Cybersecurity in Internet of Medical Things (IoMT)-Based Assistive Systems. In _AI-Based Digital Health Communication for Securing Assistive Systems_ (pp. 22-53). IGI Global.
