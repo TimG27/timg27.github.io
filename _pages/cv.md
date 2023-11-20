@@ -17,13 +17,13 @@ Education
 
 Work experience
 ======
-* Summer 2023: Research Intern
-  * University of Calgary
-  * Supervisor: Dr. Roberto Souza
+* Summer 2023: Summer Research Intern (Mitacs Globalink Research Internship '23)
+  * University of Calgary, Schulich School of Engineering
+  * Supervisor: Dr. Roberto Souza ([AI2Lab](ai2lab.ca))
 
-* Summer 2015: Research Assistant
-  * Vellore Institute of Technology 
-  * Supervisor: Dr. Karthik R
+* Summer 2022: Summer Research Intern 
+  * Vellore Institute of Technology, Centre for Cyber Physical Systems (CCPS)
+  * Supervisor: [Dr. Karthik R](https://sites.google.com/view/karthikramamurthy/home)
   
 Publications
 ======
@@ -43,7 +43,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service 
-======
-* Student Member of ACM VIT Chennai Chapter
-* Student Member of OWASP VIT Chennai Chapter
