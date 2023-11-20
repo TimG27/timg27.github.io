@@ -86,9 +86,9 @@ author:
   location         : "Chennai, India"
   employer         :
   pubmed           : 
-  googlescholar    :  # "http://yourfullgooglescholarurl.com"
+  googlescholar    :  "https://scholar.google.com/citations?user=2SqB2akAAAAJ&hl=en"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Timothy-George-7"
+  researchgate     :  # "https://www.researchgate.net/profile/Timothy-George-7"
   uri              :
   bitbucket        :
   codepen          :
