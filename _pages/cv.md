@@ -11,6 +11,8 @@ redirect_from:
 
 <br>
 
+[Academic CV](https://timg27.github.io/_files/Timothy_Thomas_George-CV.pdf)
+
 Education
 ======
 * B.Tech. in Computer Science and Engineering, Vellore Insitute of Technology, 2024
