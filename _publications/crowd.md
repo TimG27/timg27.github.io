@@ -11,4 +11,4 @@ citation: 'George, T. T., & Tyagi, A. K. (2022, January). Reliable Edge Computin
 
 [View paper here](https://doi.org/10.1109/ICCCI54379.2022.9740791)
 
-Recommended citation: George, T. T., & Tyagi, A. K. (2022, January). Reliable Edge Computing Architectures for Crowdsensing Applications. In _2022 International Conference on Computer Communication and Informatics (ICCCI)_ (pp. 1-6). IEEE.
+Recommended citation: George, T. T., & Tyagi, A. K. (2022, January). Reliable Edge Computing Architectures for Crowdsensing Applications. In <i>2022 International Conference on Computer Communication and Informatics (ICCCI)</i> (pp. 1-6). IEEE.
