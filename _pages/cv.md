@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<br>
-
 [Academic CV](https://timg27.github.io/_files/Timothy_Thomas_George-CV.pdf)
 
 Education
