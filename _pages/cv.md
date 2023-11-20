@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+<br>
+
 Education
 ======
-* B.S. in Computer Science and Engineering, Vellore Insitute of Technology, 2024
+* B.Tech. in Computer Science and Engineering, Vellore Insitute of Technology, 2024
 
 Work experience
 ======
