@@ -1,5 +1,5 @@
 ---
-title: "A Novel Multi-Feature Fusion Method for Classification of Gastrointestinal Diseases Using Endoscopy Images"
+title: "A Novel Multi-Feature Fusion Method for Classification of Gastrointestinal Diseases Using Endoscopy Images"
 collection: publications
 permalink: /publication/endoscopy.md
 excerpt: ''
