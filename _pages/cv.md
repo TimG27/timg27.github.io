@@ -17,7 +17,7 @@ Education
 ======
 * B.Tech. in Computer Science and Engineering, Vellore Insitute of Technology, 2024
 
-Work experience
+Research experience
 ======
 * Summer 2023: Summer Research Intern (Mitacs Globalink Research Internship '23)
   * University of Calgary, Schulich School of Engineering
