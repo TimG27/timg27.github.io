@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Timothy Thomas George, a senior undergrad at Vellore Institute of Technology diving deep into the world of Computer Science. Honored with the VIT Meritorious Award twice (2022 and 2023) and having spent time at the University of Calgary through the Mitacs Globalink Research Internship, I'm on a journey to make tech meet real-world challenges.
+Hi there! I'm Timothy Thomas George, a senior undergrad at Vellore Institute of Technology exploring the depths of Computer Science. Honored with the VIT Meritorious Award twice (2022 and 2023) and having spent time at the University of Calgary through the Mitacs Globalink Research Internship, I'm on a journey to make tech meet real-world challenges.
 
-Right now, my projects revolve around developing nifty deep learning models. I've worked on classifying gastrointestinal diseases, recognizing citrus diseases, and cracking the code for MRI classification. Most of my research experience lies at the intersection of technology, health and human behaviour.
+Right now, my projects revolve around developing sophisticated deep learning models. I've worked on classifying gastrointestinal diseases, recognizing citrus diseases, and cracking the code for MRI classification. Most of my research experience lies at the intersection of technology, health and human behaviour.
 
 Outside of deep learning, I'm also interested crowd psychology and crisis management. Understanding how people behave in different situations adds a fascinating layer to my work.  
 
