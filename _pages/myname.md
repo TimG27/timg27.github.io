@@ -1,7 +1,7 @@
 ---
 permalink: /myname/
-title: "My Name"
-excerpt: "My Name"
+title: "Behind the Name"
+excerpt: "Behind the Name"
 author_profile: true
 ---
 
