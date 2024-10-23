@@ -2,7 +2,7 @@
 permalink: /
 title: "My Name"
 excerpt: "My Name"
-author_profile: false
+author_profile: true
 ---
 
 ## What kind of name is 'Timothy Thomas George'?
