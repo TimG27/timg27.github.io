@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Timothy Thomas George, a senior undergrad at Vellore Institute of Technology exploring the depths of Computer Science. Honored with the VIT Meritorious Award twice (2022 and 2023) and having spent time at the University of Calgary through the Mitacs Globalink Research Internship, I'm on a journey to make tech meet real-world challenges.
+Hi, I'm Timothy. Welcome to my new academic website!
 
-Right now, my projects revolve around developing sophisticated deep learning models. I've worked on classifying gastrointestinal diseases, recognizing citrus diseases, and cracking the code for MRI classification. Most of my research experience lies at the intersection of technology, health and human behaviour.
+I am a recent graduate of Computer Science and Engineering at the Vellore Institute of Technology in the warm and busy city of Chennai, India. 
 
-Outside of deep learning, I'm also interested crowd psychology and crisis management. Understanding how people behave in different situations adds a fascinating layer to my work.  
+Before graduating, I was a research intern first at the Centre for Data Science (under the supervision of Dr. A. Tyagi), then at the Centre for Cyber Physical Systems (under the supervision of Dr. Karthik R.). In the summer of 2023, I had the opportunity to intern at the AI2Lab under the supervision of Dr. Roberto Souza, in the 'Heart of the New West'- the city of Calgary, Canada.
 
-Keen to chat or collaborate? Drop me a line at tim [george] 27 [at] hotmail [dot] com. 
+To contact me, send an email straight to timothyg775 (at) gmail (dot) com.
 
-Thanks for stopping by, and I'm excited about the adventures ahead!
-
+Some other fun things to read:
+- [What kind of name is 'Timothy Thomas George'?](/myname/)
