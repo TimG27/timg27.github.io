@@ -11,7 +11,7 @@ I often get questions about my name. For many non-Indians, it's not everyday tha
 
 ### 1. Which one of these names is your 'Family Name'?
 
-Technically, none of them are. Many Indian Christians families, especially those from its southern-most states, follow a first-name-only naming convention. This custom omits our individual socially-associated surnames, emphasizing a shared common identity that goes beyond our regional, cultural, and ethnic differences.
+Technically, none of them are. Many Indian Christians families, especially those from its southern-most states, follow a first-name-only naming convention. This custom omits our individual socially-associated surnames, emphasizing a shared common identity that goes beyond our regional and ethnic differences.
 
 ### 2. What name do you use for yourself?
 
