@@ -7,7 +7,7 @@ author_profile: true
 
 ## What kind of name is 'Timothy Thomas George'?
 
-I often get questions about my name. For many non-Indians, the idea of having three English names can seem quite unusal.
+I often get questions about my name. For many non-Indians, the idea of having three English names can seem quite unusual.
 
 ### 1. Which one of these names is your 'Family Name'?
 
